@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.figure import Figure
 matplotlib.use('Agg')
-from PIL import Image
+# from PIL import Image
 import seaborn as sns
 
 # DB
