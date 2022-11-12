@@ -40,7 +40,7 @@
 
 Hepatitis means inflammation of the liver. The liver is a vital organ that processes nutrients, filters the blood, and fights infections. 
 
-This app analyzes the [hepatitis data set](https://archive.ics.uci.edu/ml/datasets/hepatitis) in UCI's machine learning library and identifies the discriminative power of features such as protime, age, gender in determining the patient's outcome - whether he/she survives or not. It also allows users to generate predictions with high accuracy.
+This app analyzes the [hepatitis data set](https://archive.ics.uci.edu/ml/datasets/hepatitis) in UCI's machine learning library and identifies the discriminative power of features such as protime, age, gender in determining the patient's outcome - whether they survive or not. It also allows users to generate predictions with high accuracy.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
