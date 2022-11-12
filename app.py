@@ -40,7 +40,7 @@ symptoms = """ - Fatigue
 html_temp = """
 		<div style="background-color:{};padding:10px;border-radius:10px">
 		<h1 style="color:white;text-align:center;">Disease Mortality Prediction </h1>
-		<h5 style="color:white;text-align:center;">A Web App by Joy Chen </h5>
+		<h5 style="color:white;text-align:center;">A Web App by Emil Stoynov </h5>
 		</div>
 		"""
 
