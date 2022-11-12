@@ -124,7 +124,7 @@ def main():
             - Yellow skin and eyes, which may be signs of jaundice
         """
         st.write(
-            """If you would like to read up more on hepatitis, please go on to [this article](https://www.cdc.gov/hepatitis/abc/index.htm) written 
+            """If you would like to read up more on hepatitis, please go to [this article](https://www.cdc.gov/hepatitis/abc/index.htm) written 
                by Centers for Disease Control and Prevention!""")
     elif choice == "Plot":
         st.text('\n')
@@ -184,8 +184,8 @@ def main():
                 shadow=True, startangle=90)
         ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
         st.pyplot(fig1)
-        st.markdown("""Highest prevalence of Hepatitis is from **30-40** group followed by **40-50** group. 
-        The least is individuals under **10** group, and elderly above **70** group""")
+        st.markdown("""Highest prevalence of Hepatitis is from age group **30-40** followed by **40-50**. 
+        The least prevelance is in individuals under **10**, and elderly above **70** """)
 
         st.write("---")
         st.subheader("Patient's Albumin Level by Age")
