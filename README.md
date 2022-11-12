@@ -9,11 +9,11 @@
     A data analytics project that predicts mortality risk based on the patient's health conditions!
     <br />
     <br />
-    <a href="https://share.streamlit.io/zhishan03/hepatitis-mortality-app/app.py">View Demo</a>
+    <a href="https://xinyang1243-hepatitis-mortality-app-app-q01dh8.streamlit.app/">View Demo</a>
     ·
-    <a href="https://github.com/zhishan03/Music-Taste-Analysis/issues">Report Bug</a>
+    <a href="https://github.com/xinyang1243/Hepatitis-mortality-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/zhishan03/Music-Taste-Analysis/issues">Request Feature</a>
+    <a href="https://github.com/xinyang1243/Hepatitis-mortality-app/issues">Request Feature</a>
   </p>
 </div>
 
