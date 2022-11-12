@@ -46,7 +46,7 @@ html_temp = """
 
 descriptive_message_temp ="""
 	<div style="background-color:#EEEEEE;overflow-x: auto; padding:10px;border-radius:5px;">
-		<h3 style="text-align:left;color:black;padding:10px">Definition</h3>
+		<h3 style="text-align:left;padding:10px">Definition</h3>
 		<p style=padding:10px>Hepatitis means inflammation of the liver. The liver is a vital organ that processes nutrients, filters the blood, and fights infections. When the liver is inflamed or damaged, its function can be affected. Heavy alcohol use, toxins, some medications, and certain medical conditions can cause hepatitis.</p>
 	</div>
 	"""
